@@ -1,0 +1,30 @@
+Nome: Bicicleta azul
+Preço: 400,00
+Quantidade: 2
+Codigo: 2
+------------------------------------------------------
+Nome: Bicicleta motorizada
+Preço: 600,99
+Quantidade: 1
+Codigo: 3
+------------------------------------------------------
+Nome: Bicicleta infantil
+Preço: 100
+Quantidade: 1
+Codigo: 4
+------------------------------------------------------
+Nome: Bicicleta verde
+Preço: 100
+Quantidade: 1
+Codigo: 5
+------------------------------------------------------
+Nome: Bicicleta Urbana
+Preço: 250,50
+Quantidade: 1
+Codigo: 6
+-----------------------------------------------------
+Nome: Bicicleta cinza
+Preço: 500,00
+Quantidade: 1
+Codigo: 7
+------------------------------------------------------
